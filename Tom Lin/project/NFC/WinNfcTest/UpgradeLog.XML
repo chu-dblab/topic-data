@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WinNfcTest">
+</Property><Property Name="方案檔" Value="C:\Users\Tony\Desktop\NFC\WinNfcTest\WinNfcTest.sln">
+</Property><Property Name="Date" Value="2013年3月14日">
+</Property><Property Name="Time" Value="上午 01:05">
+</Property></Properties><Event ErrorLevel="0" Project="WinNfcTest" Source="WinNfcTest.vcproj" Description="專案升級成功。">
+</Event><Event ErrorLevel="3" Project="WinNfcTest" Source="WinNfcTest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WinNfcTest.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="WinNfcTest.sln" Description="Converted">
+</Event></UpgradeLog>
